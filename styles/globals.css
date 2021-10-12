@@ -38,11 +38,12 @@ a {
 }
 
 .card {
-  width: 20%;
-  height: auto;
+  width: 25%;
+  height: 20vh;
   border-radius: 5%;
   margin: 10px;
   filter: drop-shadow(5px 5px 10px #000);
+  object-fit: cover;
 }
 
 .video-image {
